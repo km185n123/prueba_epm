@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rtoshiro.securesharedpreferences:securesharedpreferences:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/securesharedpreferences-1.2.0.aar/ac0c23007005f413e63bba186cacaaaf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/securesharedpreferences-1.2.0.aar/ac0c23007005f413e63bba186cacaaaf/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rtoshiro.securesharedpreferences/securesharedpreferences/1.2.0/2e75d29e293a37280b5795d8bc0ae552333ba3b9/securesharedpreferences-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
